@@ -1,5 +1,5 @@
-<h1 style="text-align: center;">Desafio DIO</h1>
-<h2 style="text-align: center;">HTML</h2>
+# Desafio DIO
+## HTML
 
 <div align=center>
 <img src="https://img.shields.io/github/repo-size/mellralla/desafio_HTML_DIO?color=ffa6d2&label=general%20size&logo=github&logoColor=ffa6d2&style=for-the-badge"/>
